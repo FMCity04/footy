@@ -1,0 +1,101 @@
+id,name,position,prospect_year,starting_club,made_it,peak_market_value_eur,current_status,appearances_top_tier
+1,Kylian Mbappe,Forward,2016,Monaco,1,180000000,Elite Club,318
+2,Erling Haaland,Forward,2018,Molde,1,180000000,Elite Club,210
+3,Jude Bellingham,Midfielder,2020,Birmingham City,1,180000000,Elite Club,185
+4,Vinicius Junior,Forward,2018,Flamengo,1,150000000,Elite Club,210
+5,Jamal Musiala,Midfielder,2020,Bayern Munich,1,130000000,Elite Club,150
+6,Bukayo Saka,Forward,2019,Arsenal,1,130000000,Elite Club,200
+7,Phil Foden,Midfielder,2018,Manchester City,1,130000000,Elite Club,195
+8,Florian Wirtz,Midfielder,2020,Bayer Leverkusen,1,130000000,Elite Club,145
+9,Pedri,Midfielder,2020,Barcelona,1,100000000,Elite Club,135
+10,William Saliba,Defender,2019,Saint-Etienne,1,80000000,Elite Club,160
+11,Martin Odegaard,Midfielder,2015,Real Madrid,1,110000000,Elite Club,240
+12,Federico Valverde,Midfielder,2017,Real Madrid,1,120000000,Elite Club,250
+13,Rodrygo,Forward,2019,Santos,1,100000000,Elite Club,190
+14,Declan Rice,Midfielder,2017,West Ham United,1,120000000,Elite Club,280
+15,Trent Alexander-Arnold,Defender,2017,Liverpool,1,75000000,Elite Club,250
+16,Alphonso Davies,Defender,2019,Bayern Munich,1,70000000,Elite Club,175
+17,Kai Havertz,Midfielder,2018,Bayer Leverkusen,1,75000000,Elite Club,230
+18,Rafael Leao,Forward,2019,Lille,1,90000000,Elite Club,185
+19,Eduardo Camavinga,Midfielder,2019,Rennes,1,100000000,Elite Club,165
+20,Aurelien Tchouameni,Midfielder,2019,Bordeaux,1,100000000,Elite Club,175
+21,Marcus Rashford,Forward,2016,Manchester United,1,85000000,Top Tier Club,292
+22,Jadon Sancho,Forward,2018,Borussia Dortmund,1,130000000,Top Tier Club,180
+23,Mason Mount,Midfielder,2019,Chelsea,1,75000000,Top Tier Club,170
+24,Christian Pulisic,Forward,2016,Borussia Dortmund,1,60000000,Top Tier Club,195
+25,Dele Alli,Midfielder,2015,Tottenham Hotspur,1,100000000,Lower League / Free Agent,194
+26,Ansu Fati,Forward,2019,Barcelona,0,80000000,Mid-Table Club,65
+27,Ousmane Dembele,Forward,2016,Rennes,1,120000000,Elite Club,205
+28,Gabriel Jesus,Forward,2016,Palmeiras,1,80000000,Top Tier Club,235
+29,Anthony Martial,Forward,2015,Monaco,1,65000000,Journeyman,242
+30,Timo Werner,Forward,2016,RB Leipzig,1,80000000,Mid-Table Club,275
+31,Memphis Depay,Forward,2014,PSV Eindhoven,1,60000000,Journeyman,230
+32,Philippe Coutinho,Midfielder,2012,Inter Milan,1,150000000,Journeyman,310
+33,Isco,Midfielder,2012,Malaga,1,90000000,Mid-Table Club,340
+34,Marco Asensio,Forward,2015,Real Madrid,1,90000000,Journeyman,215
+35,Mario Gotze,Midfielder,2010,Borussia Dortmund,1,55000000,Mid-Table Club,270
+36,Alexandre Pato,Forward,2007,AC Milan,1,35000000,Retired,145
+37,Bojan Krkic,Forward,2007,Barcelona,1,20000000,Retired,141
+38,Jack Wilshere,Midfielder,2010,Arsenal,1,32000000,Retired,152
+39,Federico Macheda,Forward,2009,Manchester United,0,4000000,Lower League,38
+40,Alen Halilovic,Midfielder,2014,Dinamo Zagreb,0,10000000,Lower League,62
+41,Hachim Mastour,Midfielder,2014,AC Milan,0,500000,Lower League,8
+42,Freddy Adu,Forward,2004,DC United,0,500000,Retired,25
+43,Anderson,Midfielder,2007,Porto,1,30000000,Retired,138
+44,Ryan Gauld,Midfielder,2013,Dundee United,0,6000000,Mid-Table Club,54
+45,Carlos Fierro,Forward,2011,Chivas Guadalajara,0,2500000,Lower League,18
+46,Gabriel Barbosa,Forward,2014,Santos,0,25000000,South American Club,35
+47,Emre Mor,Forward,2016,Nordsjaelland,0,9000000,Lower League,58
+48,Ravel Morrison,Midfielder,2011,Manchester United,0,3000000,Journeyman,24
+49,John Fleck,Midfielder,2008,Rangers,0,3500000,Lower League,64
+50,Josh McEachran,Midfielder,2010,Chelsea,0,3000000,Lower League,28
+51,Adnan Januzaj,Forward,2013,Manchester United,1,18000000,Journeyman,145
+52,Ben Woodburn,Forward,2016,Liverpool,0,5000000,Lower League,21
+53,Dominic Solanke,Forward,2017,Chelsea,1,40000000,Top Tier Club,165
+54,Reiss Nelson,Forward,2017,Arsenal,0,15000000,Mid-Table Club,68
+55,Angel Gomes,Midfielder,2017,Manchester United,0,25000000,Top Tier Club,84
+56,Tahith Chong,Forward,2018,Manchester United,0,7000000,Mid-Table Club,52
+57,Krystian Bielik,Defender,2015,Legia Warsaw,0,6000000,Lower League,45
+58,Gedson Fernandes,Midfielder,2018,Benfica,0,22000000,Mid-Table Club,61
+59,Renato Sanches,Midfielder,2016,Benfica,1,30000000,Journeyman,118
+60,Malang Sarr,Defender,2016,Nice,0,20000000,Journeyman,74
+61,Aaron Wan-Bissaka,Defender,2018,Crystal Palace,1,40000000,Top Tier Club,195
+62,Ruben Loftus-Cheek,Midfielder,2015,Chelsea,1,25000000,Mid-Table Club,158
+63,Callum Hudson-Odoi,Forward,2018,Chelsea,0,35000000,Mid-Table Club,92
+64,Mason Greenwood,Forward,2019,Manchester United,0,50000000,Top Tier Club,95
+65,Nicolo Zaniolo,Midfielder,2018,Roma,1,50000000,Journeyman,112
+66,Moise Kean,Forward,2018,Juventus,1,35000000,Top Tier Club,125
+67,Harvey Elliott,Midfielder,2019,Fulham,0,35000000,Top Tier Club,92
+68,Curtis Jones,Midfielder,2019,Liverpool,0,35000000,Top Tier Club,88
+69,Fabio Carvalho,Midfielder,2021,Fulham,0,22000000,Mid-Table Club,42
+70,Josko Gvardiol,Defender,2020,Dinamo Zagreb,1,80000000,Elite Club,115
+71,Jeremy Doku,Forward,2020,Anderlecht,0,65000000,Elite Club,98
+72,Xavi Simons,Midfielder,2019,Paris Saint-Germain,0,80000000,Elite Club,85
+73,Ryan Gravenberch,Midfielder,2020,Ajax,1,40000000,Elite Club,105
+74,Brian Brobbey,Forward,2020,Ajax,1,20000000,Top Tier Club,102
+75,Nuno Mendes,Defender,2020,Sporting CP,0,60000000,Elite Club,95
+76,Goncalo Ramos,Forward,2020,Benfica,0,50000000,Top Tier Club,85
+77,Takefusa Kubo,Forward,2019,FC Tokyo,1,60000000,Top Tier Club,138
+78,Lee Kang-in,Midfielder,2019,Valencia,1,25000000,Elite Club,104
+79,Giovanni Reyna,Midfielder,2019,Borussia Dortmund,0,42000000,Mid-Table Club,88
+80,Youri Tielemans,Midfielder,2013,Anderlecht,1,55000000,Top Tier Club,310
+81,Aleksandar Mitrovic,Forward,2012,Partizan,1,28000000,Top Tier Club,215
+82,Dominik Szoboszlai,Midfielder,2018,Red Bull Salzburg,1,75000000,Elite Club,130
+83,Breel Embolo,Forward,2015,Basel,1,20000000,Top Tier Club,185
+84,Sergej Milinkovic-Savic,Midfielder,2014,Vojvodina,1,70000000,Journeyman,275
+85,Dani Olmo,Midfielder,2018,Dinamo Zagreb,1,60000000,Elite Club,140
+86,Sandro Tonali,Midfielder,2018,Brescia,1,50000000,Top Tier Club,128
+87,Gianluigi Donnarumma,Goalkeeper,2015,AC Milan,1,65000000,Elite Club,310
+88,Thibaut Courtois,Goalkeeper,2011,Genk,1,60000000,Elite Club,380
+89,Wojciech Szczesny,Goalkeeper,2009,Arsenal,1,35000000,Elite Club,330
+90,Kepa Arrizabalaga,Goalkeeper,2017,Athletic Bilbao,1,80000000,Mid-Table Club,205
+91,Loris Karius,Goalkeeper,2014,Mainz 05,0,12000000,Lower League,72
+92,Joe Hart,Goalkeeper,2006,Shrewsbury Town,1,20000000,Retired,430
+93,Patrick Roberts,Forward,2015,Fulham,0,10000000,Lower League,55
+94,Lazar Markovic,Forward,2013,Partizan,1,25000000,Journeyman,105
+95,Max Meyer,Midfielder,2013,Schalke 04,1,20000000,Journeyman,198
+96,Leon Goretzka,Midfielder,2013,VfL Bochum,1,65000000,Elite Club,275
+97,Julian Brandt,Midfielder,2014,Bayer Leverkusen,1,50000000,Top Tier Club,305
+98,Niklas Sule,Defender,2013,Hoffenheim,1,45000000,Top Tier Club,265
+99,Jonathan Tah,Defender,2014,Hamburg,1,30000000,Top Tier Club,280
+100,Houssem Aouar,Midfielder,2017,Lyon,1,50000000,Journeyman,165
