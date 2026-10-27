@@ -7,7 +7,7 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  background(46, 125, 50);
   
   float x1 = 50;
   float y1 = 130;
