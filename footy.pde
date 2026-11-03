@@ -44,4 +44,14 @@ void draw() {
       }
     }
   }
+  
+  drawTitles();
+}
+
+void drawTitles() {
+    fill(255);
+    textSize(28);
+    textAlign(CENTER, CENTER);
+    text("Made it", 206, 60);
+    text("Didn't make it", 586, 60);
 }
